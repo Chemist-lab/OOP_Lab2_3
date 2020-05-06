@@ -4,13 +4,6 @@ namespace Lab3
 {
     class Program
     {
-        static int mainProg(int length, int numArr)
-        {
-
-
-
-            return 1;
-        }
 
         static void Main(string[] args)
         {
